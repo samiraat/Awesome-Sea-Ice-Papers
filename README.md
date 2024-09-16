@@ -66,7 +66,7 @@ Sea ice classification is a crucial task for understanding and predicting Arctic
 
 | Paper Title | Year | Task Type|
 |------------------------|------|-----|
-| [SAR Sea-Ice Image Analysis Based on Iterative Region Growing Using Semantics](https://ieeexplore.ieee.org/abstract/document/4378543) | 2007 | Classification ? |
+| [SAR Sea-Ice Image Analysis Based on Iterative Region Growing Using Semantics](https://ieeexplore.ieee.org/abstract/document/4378543) | 2007 | Classification |
 | [Gaofen-3 sea ice detection based on deep learning](https://ieeexplore.ieee.org/document/8293267) | 2017 | Classification |
 | [Sea ice and open water classification of SAR imagery using CNN-based transfer learning](https://ieeexplore.ieee.org/document/8127693) | 2017| Classification |
 | [A residual convolution neural network for sea ice classification with Sentinel-1 SAR imagery](https://ieeexplore.ieee.org/document/8637496) | 2018| Classification |
