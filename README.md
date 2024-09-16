@@ -23,22 +23,31 @@ Sea ice type classification is a crucial task for understanding and predicting A
 
 | Paper Title | Year |
 |-------------|------|
-| [Title of Paper 1](#) | 2023 |
-| [Title of Paper 2](#) | 2022 |
+|||
 
 ## Image Classification (Patch-Level)
 
 | Paper Title | Year |
 |-------------|------|
-| [Title of Paper 5](#) | 2022 |
-| [Title of Paper 6](#) | 2020 |
+| [Gaofen-3 sea ice detection based on deep learning](https://ieeexplore.ieee.org/document/8293267) | 2017 |
+| [Sea ice and open water classification of SAR imagery using CNN-based transfer learning] (https://ieeexplore.ieee.org/document/8127693) | 2017|
+| [A residual convolution neural network for sea ice classification with Sentinel-1 SAR imagery] (https://ieeexplore.ieee.org/document/8637496) | 2018|
+| [Hyperspectral sea ice image classification based on the spectral-spatial-joint feature with deep learning](https://www.mdpi.com/2072-4292/11/18/2170) | 2019 |
+| [Classification of sea ice types in Sentinel-1 SAR data using convolutional neural networks](https://www.mdpi.com/2072-4292/12/13/2165) | 2020|
+| [Combining 3D-CNN and squeeze-and-excitation networks for remote sensing sea ice image classification](https://onlinelibrary.wiley.com/doi/10.1155/2020/8065396) | 2020|
+| [Proof of concept for sea ice stage of development classification using deep learning](https://www.mdpi.com/2072-4292/12/15/2486) | 2020|
+| [Sea ice classification of SAR imagery based on convolution neural networks] (https://www.mdpi.com/2072-4292/13/9/1734) | 2021 |
+| [Deep learning based sea ice classification with Gaofen-3 fully polarimetric SAR data] (https://www.mdpi.com/2072-4292/13/8/1452) | 2021|
+| [Remote sensing sea ice classification based on DenseNet and heterogeneous data fusion](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-16/issue-4/044517/Remote-sensing-sea-ice-classification-based-on-DenseNet-and-heterogeneous/10.1117/1.JRS.16.044517.short#_=_) | 2022|
+| [Eastern Arctic Sea Ice Sensing: First Results from the RADARSAT Constellation Mission Data](https://www.mdpi.com/2072-4292/14/5/1165)| 2022|
+| [Sea ice–water classification of RADARSAT-2 imagery based on residual neural networks (ResNet) with regional pooling](https://www.mdpi.com/2072-4292/14/13/3025) | 2022|
 
 ## Semantic Segmentation (Pixel-Level)
 
 | Paper Title | Year |
 |-------------|------|
-| [Title of Paper 7](#) | 2023 |
-| [Title of Paper 8](#) | 2019 |
+| [Sea ice and open water classification of SAR images using a deep learning model](https://ieeexplore.ieee.org/document/9323990)| 2020 |
+| [](#) | 2019 |
 
 ## How to Contribute
 
