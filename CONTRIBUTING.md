@@ -21,5 +21,5 @@ Submit a pull request: Head back to the original repository and click the "New P
 Markdown is easy! Here’s how you can format your contribution:
 - **[Awesome Paper Title](https://example.com)** - 2024
 
-- New Ideas or Suggestions? 💡
+3. New Ideas or Suggestions? 💡
 Do you have ideas for how we can improve this repository? Maybe a new section, better organization, or just a cool new badge? Open an issue or include your suggestions in your pull request. We love hearing fresh perspectives!
