@@ -3,7 +3,7 @@
 ## Overview
 This repository is a curated collection of academic papers focused on semi-supervised and supervised learning techniques for sea ice type classification. It emphasizes research at the patch-level classification and pixel-level semantic segmentation, providing a comprehensive resource for researchers and practitioners in the field.
 
-[![Awesome](https://img.shields.io/badge/awesome-yes-brightgreen.svg)](AWESOME.md) 
+[![Awesome](https://img.shields.io/badge/awesome-%F0%9F%98%8E-brightgreen.svg)](AWESOME.md)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
