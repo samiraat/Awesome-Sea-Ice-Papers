@@ -47,7 +47,8 @@ Sea ice type classification is a crucial task for understanding and predicting A
 | [Eastern Arctic Sea Ice Sensing: First Results from the RADARSAT Constellation Mission Data](https://www.mdpi.com/2072-4292/14/5/1165)| 2022|
 | [Sea ice–water classification of RADARSAT-2 imagery based on residual neural networks (ResNet) with regional pooling](https://www.mdpi.com/2072-4292/14/13/3025) | 2022|
 | [Sea-Ice Mapping of RADARSAT-2 Imagery by Integrating Spatial Contexture With Textural Features](https://ieeexplore.ieee.org/document/9887856) | 2022|
-
+| [Sea ice and water classification on dual-polarized Sentinel-1 imagery during melting season](https://tc.copernicus.org/preprints/tc-2021-85) | 2021|
+| [ Classification of sea ice types in Sentinel-1 synthetic aperture radar images](https://tc.copernicus.org/articles/14/2629/2020) | 2020|
 ## Semantic Segmentation (Pixel-Level)
 
 | Paper Title | Year |
@@ -61,6 +62,9 @@ Sea ice type classification is a crucial task for understanding and predicting A
 | [Semantic segmentation of Arctic Sea ice in summer from remote sensing satellite images based on BAU-NET](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-16/issue-4/046514/Semantic-segmentation-of-Arctic-Sea-ice-in-summer-from-remote/10.1117/1.JRS.16.046514.short) | 2022|
 | [Arctic sea ice cover data from spaceborne synthetic aperture radar by deep learning](https://essd.copernicus.org/articles/13/2723/2021/) | 2021|
 | [Enhancing sea ice segmentation in Sentinel-1 images with atrous convolutions](https://www.tandfonline.com/doi/full/10.1080/01431161.2023.2248560) | 2023|
+| [Fine extraction of arctic sea ice based on CA-DeepLabV3+ model](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12797/127971P/Fine-extraction-of-arctic-sea-ice-based-on-CA-DeepLabV3/10.1117/12.3007422.short) | 2023|
+| [In-situ sea ice detection using DeepLabv3 semantic segmentation](https://ieeexplore.ieee.org/document/9705801) | 2021|
+| [Semantic image segmentation for sea ice parameters recognition using deep convolutional neural networks.](https://www.sciencedirect.com/science/article/pii/S1569843222000875) | 2022|
 
 
 ## How to Contribute
