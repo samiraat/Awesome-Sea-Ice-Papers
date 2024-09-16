@@ -70,14 +70,12 @@ Sea ice type classification is a crucial task for understanding and predicting A
 
 ## How to Contribute
 
-We welcome contributions to this repository! If you have a paper or resource that you believe should be included, please follow these steps:
+We welcome contributions to this repository! Please see our [Contribution Guide](CONTRIBUTING.md) for more details.
 
-1. **Fork** the repository.
-2. **Create** a new branch for your changes.
-3. **Add** the paper link and description in the appropriate section.
-4. **Submit** a pull request with a brief description of your addition.
+## Awesome Resources
 
-Your contribution will help create a comprehensive resource for the community.
+For more amazing content related to sea ice type classification, check out our [Awesome Resources](AWESOME.md).
+
 
 ## License
 
