@@ -40,9 +40,9 @@ Sea ice type classification is a crucial task for understanding and predicting A
 |-------------|------|----------------------------|
 | [Sea Ice Concentration Estimation During Melt From Dual-Pol SAR Scenes Using Deep Convolutional Neural Networks: A Case Study](https://ieeexplore.ieee.org/document/7448925) | 2016 |  Classification |
 | [ICE CONCENTRATION ESTIMATION IN THE GULF OF ST. LAWRENCE USING FULLY CONVOLUTIONAL NEURAL NETWORK](https://ieeexplore-ieee-org.aurarialibrary.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=8128124) | 2017 | Classification |
-| [Sea Ice Concentration Estimation during Freeze-Up from SAR Imagery Using a Convolutional Neural Network](https://www.mdpi.com/2072-4292/9/5/408)| 2017 | Classification|
-| [Sea Ice Sensing From GNSS-R Data Using Convolutional Neural Networks](https://ieeexplore-ieee-org.aurarialibrary.idm.oclc.org/document/8418469) | 2018|
-| [Baltic Sea Ice Concentration Estimation From C-Band Dual-Polarized SAR Imagery by Image Segmentation and Convolutional Neural Networks](https://ieeexplore-ieee-org.aurarialibrary.idm.oclc.org/document/9500042) | 2021 | 
+| [Sea Ice Concentration Estimation during Freeze-Up from SAR Imagery Using a Convolutional Neural Network](https://www.mdpi.com/2072-4292/9/5/408)| 2017 | Classification |
+| [Sea Ice Sensing From GNSS-R Data Using Convolutional Neural Networks](https://ieeexplore-ieee-org.aurarialibrary.idm.oclc.org/document/8418469) | 2018| Classification |
+| [Baltic Sea Ice Concentration Estimation From C-Band Dual-Polarized SAR Imagery by Image Segmentation and Convolutional Neural Networks](https://ieeexplore-ieee-org.aurarialibrary.idm.oclc.org/document/9500042) | 2021 | Classification |
 | [
 
 
@@ -82,6 +82,7 @@ Sea ice type classification is a crucial task for understanding and predicting A
 | [ Classification of sea ice types in Sentinel-1 synthetic aperture radar images](https://tc.copernicus.org/articles/14/2629/2020) | 2020| Classification |
 | [Sea ice and open water classification of SAR images using a deep learning model](https://ieeexplore.ieee.org/document/9323990)| 2020 | Classification |
 | [A Convolutional Neural Network Architecture for Sentinel-1 and AMSR2 Data Fusion](https://ieeexplore.ieee.org/document/9133205) | 2020 | Classification |
+| [Hyperspectral Sea Ice Image Classification Based on the Spectral-Spatial-Joint Feature with the PCA Network](https://www.mdpi.com/2072-4292/13/12/2253) | 2021 | Classification |
 | [Classifying sea ice types from SAR images using a U-Net-based deep learning model](https://ieeexplore.ieee.org/document/9554511) | 2021| Segmentation|
 | [Development of a dual-attention U-Net model for sea ice and open water classification on SAR images](https://ieeexplore.ieee.org/document/9361068) |2021| Segmentation|
 | [In-situ sea ice detection using DeepLabv3 semantic segmentation](https://ieeexplore.ieee.org/document/9705801) | 2021| Segmentation|
