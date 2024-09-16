@@ -24,7 +24,7 @@ This repository is a curated collection of academic papers focused on semi-super
 Sea ice classification is a crucial task for understanding and predicting Arctic and Antarctic ice conditions. This repository aggregates key papers that explore various machine learning techniques, including semi-supervised and supervised learning approaches, to classify sea ice type and concentration effectively. The focus is on methodologies that target both patch-level classification and pixel-level semantic segmentation.
 
 ## Sea Ice Concentration
-**Sea Ice Concentration Visualization**
+
 ![Sea Ice Concentration](imgs/HH_HV_SIC_plot.png)
 
 ### Semi-Supervised Learning (Sea Ice Concentration)
@@ -49,7 +49,7 @@ Sea ice classification is a crucial task for understanding and predicting Arctic
 
 
 ## Sea Ice Type Classification
-**Sea Ice Type Classification Visualization**
+
 ![Sea Ice Type Classification](imgs/HH_HV_SOD_plot.png)
 ### Semi-Supervised Learning (Sea Ice Type Classification)
 
