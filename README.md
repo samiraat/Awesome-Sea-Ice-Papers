@@ -90,9 +90,7 @@ Sea ice type classification is a crucial task for understanding and predicting A
 
 We welcome contributions to this repository! Please see our [Contribution Guide](CONTRIBUTING.md) for more details.
 
-## Awesome Resources
 
-For more amazing content related to sea ice type classification, check out our [Awesome Resources](AWESOME.md).
 
 
 ## License
