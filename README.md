@@ -38,8 +38,12 @@ Sea ice type classification is a crucial task for understanding and predicting A
 
 | Paper Title | Year | Task Type |
 |-------------|------|----------------------------|
-| [Title of Paper 3](#) | 2023 | Classification        |
-| [Title of Paper 4](#) | 2021 | Segmentation          |
+| [Sea Ice Concentration Estimation During Melt From Dual-Pol SAR Scenes Using Deep Convolutional Neural Networks: A Case Study](https://ieeexplore.ieee.org/document/7448925) | 2016 |  Classification |
+| [ICE CONCENTRATION ESTIMATION IN THE GULF OF ST. LAWRENCE USING FULLY CONVOLUTIONAL NEURAL NETWORK](https://ieeexplore-ieee-org.aurarialibrary.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=8128124) | 2017 | Classification |
+| [Sea Ice Concentration Estimation during Freeze-Up from SAR Imagery Using a Convolutional Neural Network](https://www.mdpi.com/2072-4292/9/5/408)| 2017 | Classification|
+| [Sea Ice Sensing From GNSS-R Data Using Convolutional Neural Networks](https://ieeexplore-ieee-org.aurarialibrary.idm.oclc.org/document/8418469) | 2018|
+| [Baltic Sea Ice Concentration Estimation From C-Band Dual-Polarized SAR Imagery by Image Segmentation and Convolutional Neural Networks](https://ieeexplore-ieee-org.aurarialibrary.idm.oclc.org/document/9500042) | 2021 | 
+| [
 
 
 ## Sea Ice Type Classification
@@ -55,14 +59,15 @@ Sea ice type classification is a crucial task for understanding and predicting A
 | [Deep semisupervised teacher–student model based on label propagation for sea ice classification](https://ieeexplore.ieee.org/document/9573360)| 2021|
 
 
-
 ### Supervised Learning (Sea Ice Type Classification)
 
 | Paper Title | Year | Task Type|
 |------------------------|------|-----|
+| [SAR Sea-Ice Image Analysis Based on Iterative Region Growing Using Semantics](https://ieeexplore.ieee.org/abstract/document/4378543) | 2007 | Classification ? |
 | [Gaofen-3 sea ice detection based on deep learning](https://ieeexplore.ieee.org/document/8293267) | 2017 | Classification |
 | [Sea ice and open water classification of SAR imagery using CNN-based transfer learning](https://ieeexplore.ieee.org/document/8127693) | 2017| Classification |
 | [A residual convolution neural network for sea ice classification with Sentinel-1 SAR imagery](https://ieeexplore.ieee.org/document/8637496) | 2018| Classification |
+| [Convolutional Neural Networks-Based Sea Ice Detection From TDS-1 Data](https://ieeexplore-ieee-org.aurarialibrary.idm.oclc.org/document/8572899) | 2018 | Classification |
 | [Hyperspectral sea ice image classification based on the spectral-spatial-joint feature with deep learning](https://www.mdpi.com/2072-4292/11/18/2170) | 2019 | Classification |
 | [Classification of sea ice types in Sentinel-1 SAR data using convolutional neural networks](https://www.mdpi.com/2072-4292/12/13/2165) | 2020| Classification |
 | [Combining 3D-CNN and squeeze-and-excitation networks for remote sensing sea ice image classification](https://onlinelibrary.wiley.com/doi/10.1155/2020/8065396) | 2020| Classification |
@@ -76,7 +81,7 @@ Sea ice type classification is a crucial task for understanding and predicting A
 | [Sea ice and water classification on dual-polarized Sentinel-1 imagery during melting season](https://tc.copernicus.org/preprints/tc-2021-85) | 2021| Classification |
 | [ Classification of sea ice types in Sentinel-1 synthetic aperture radar images](https://tc.copernicus.org/articles/14/2629/2020) | 2020| Classification |
 | [Sea ice and open water classification of SAR images using a deep learning model](https://ieeexplore.ieee.org/document/9323990)| 2020 | Classification |
-| [SAR Sea-Ice Image Analysis Based on Iterative Region Growing Using Semantics](https://ieeexplore.ieee.org/abstract/document/4378543) | 2007 | Classification |
+| [A Convolutional Neural Network Architecture for Sentinel-1 and AMSR2 Data Fusion](https://ieeexplore.ieee.org/document/9133205) | 2020 | Classification |
 | [Classifying sea ice types from SAR images using a U-Net-based deep learning model](https://ieeexplore.ieee.org/document/9554511) | 2021| Segmentation|
 | [Development of a dual-attention U-Net model for sea ice and open water classification on SAR images](https://ieeexplore.ieee.org/document/9361068) |2021| Segmentation|
 | [In-situ sea ice detection using DeepLabv3 semantic segmentation](https://ieeexplore.ieee.org/document/9705801) | 2021| Segmentation|
