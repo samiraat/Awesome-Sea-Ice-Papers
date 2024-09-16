@@ -23,7 +23,12 @@ Sea ice type classification is a crucial task for understanding and predicting A
 
 | Paper Title | Year |
 |-------------|------|
-|||
+| [A semi-supervised approach for ice-water classification using dual-polarization SAR satellite imagery](https://ieeexplore.ieee.org/document/7301380) | 2015|
+| [Deep semisupervised teacher–student model based on label propagation for sea ice classification](https://ieeexplore.ieee.org/document/9573360)| 2021|
+| [A cooperative framework based on active and semi-supervised learning for sea ice classification using EO-1 Hyperion data](https://www.jstage.jst.go.jp/article/tjsass/62/6/62_T-19-6/_pdf) | 2019|
+| [Deep learning for sea-ice classification on synthetic aperture radar (SAR) images in Earth observation](https://www.diva-portal.org/smash/get/diva2:1450605/FULLTEXT01.pdf#page=27.19) | 2019|
+
+
 
 ## Image Classification (Patch-Level)
 
@@ -41,6 +46,7 @@ Sea ice type classification is a crucial task for understanding and predicting A
 | [Remote sensing sea ice classification based on DenseNet and heterogeneous data fusion](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-16/issue-4/044517/Remote-sensing-sea-ice-classification-based-on-DenseNet-and-heterogeneous/10.1117/1.JRS.16.044517.short#_=_) | 2022|
 | [Eastern Arctic Sea Ice Sensing: First Results from the RADARSAT Constellation Mission Data](https://www.mdpi.com/2072-4292/14/5/1165)| 2022|
 | [Sea ice–water classification of RADARSAT-2 imagery based on residual neural networks (ResNet) with regional pooling](https://www.mdpi.com/2072-4292/14/13/3025) | 2022|
+| [Sea-Ice Mapping of RADARSAT-2 Imagery by Integrating Spatial Contexture With Textural Features](https://ieeexplore.ieee.org/document/9887856) | 2022|
 
 ## Semantic Segmentation (Pixel-Level)
 
