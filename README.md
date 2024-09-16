@@ -43,7 +43,9 @@ Sea ice type classification is a crucial task for understanding and predicting A
 | [Sea Ice Concentration Estimation during Freeze-Up from SAR Imagery Using a Convolutional Neural Network](https://www.mdpi.com/2072-4292/9/5/408)| 2017 | Classification |
 | [Sea Ice Sensing From GNSS-R Data Using Convolutional Neural Networks](https://ieeexplore-ieee-org.aurarialibrary.idm.oclc.org/document/8418469) | 2018| Classification |
 | [Baltic Sea Ice Concentration Estimation From C-Band Dual-Polarized SAR Imagery by Image Segmentation and Convolutional Neural Networks](https://ieeexplore-ieee-org.aurarialibrary.idm.oclc.org/document/9500042) | 2021 | Classification |
-| [
+| [Impact of intermediate ice concentration training data on sea ice concentration estimates from a convolutional neural network](https://www-tandfonline-com.aurarialibrary.idm.oclc.org/doi/full/10.1080/01431161.2019.1582113) | 2018 | Classification |
+| [Estimating Sea Ice Concentration From SAR: Training Convolutional Neural Networks With Passive Microwave Data](https://ieeexplore-ieee-org.aurarialibrary.idm.oclc.org/document/8636521) | 2019 | Classification |
+
 
 
 ## Sea Ice Type Classification
@@ -57,6 +59,7 @@ Sea ice type classification is a crucial task for understanding and predicting A
 | [A cooperative framework based on active and semi-supervised learning for sea ice classification using EO-1 Hyperion data](https://www.jstage.jst.go.jp/article/tjsass/62/6/62_T-19-6/_pdf) | 2019|
 | [Deep learning for sea-ice classification on synthetic aperture radar (SAR) images in Earth observation](https://www.diva-portal.org/smash/get/diva2:1450605/FULLTEXT01.pdf#page=27.19) | 2019|
 | [Deep semisupervised teacher–student model based on label propagation for sea ice classification](https://ieeexplore.ieee.org/document/9573360)| 2021|
+| [REGION-LEVEL LABELS IN ICE CHARTS CAN PRO-DUCE PIXEL-LEVEL SEGMENTATION FOR SEA ICE TYPES](https://arxiv.org/pdf/2405.10456) | 2024 |
 
 
 ### Supervised Learning (Sea Ice Type Classification)
