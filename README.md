@@ -37,7 +37,7 @@ Sea ice type classification is a crucial task for understanding and predicting A
 | [Combining 3D-CNN and squeeze-and-excitation networks for remote sensing sea ice image classification](https://onlinelibrary.wiley.com/doi/10.1155/2020/8065396) | 2020|
 | [Proof of concept for sea ice stage of development classification using deep learning](https://www.mdpi.com/2072-4292/12/15/2486) | 2020|
 | [Sea ice classification of SAR imagery based on convolution neural networks](https://www.mdpi.com/2072-4292/13/9/1734) | 2021 |
-| [Deep learning based sea ice classification with Gaofen-3 fully polarimetric SAR data] (https://www.mdpi.com/2072-4292/13/8/1452) | 2021|
+| [Deep learning based sea ice classification with Gaofen-3 fully polarimetric SAR data](https://www.mdpi.com/2072-4292/13/8/1452) | 2021|
 | [Remote sensing sea ice classification based on DenseNet and heterogeneous data fusion](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-16/issue-4/044517/Remote-sensing-sea-ice-classification-based-on-DenseNet-and-heterogeneous/10.1117/1.JRS.16.044517.short#_=_) | 2022|
 | [Eastern Arctic Sea Ice Sensing: First Results from the RADARSAT Constellation Mission Data](https://www.mdpi.com/2072-4292/14/5/1165)| 2022|
 | [Sea ice–water classification of RADARSAT-2 imagery based on residual neural networks (ResNet) with regional pooling](https://www.mdpi.com/2072-4292/14/13/3025) | 2022|
