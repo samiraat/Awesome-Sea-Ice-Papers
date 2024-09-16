@@ -47,9 +47,9 @@ Sea ice type classification is a crucial task for understanding and predicting A
 | Paper Title | Year |
 |-------------|------|
 | [A semi-supervised approach for ice-water classification using dual-polarization SAR satellite imagery](https://ieeexplore.ieee.org/document/7301380) | 2015|
-| [Deep semisupervised teacher–student model based on label propagation for sea ice classification](https://ieeexplore.ieee.org/document/9573360)| 2021|
 | [A cooperative framework based on active and semi-supervised learning for sea ice classification using EO-1 Hyperion data](https://www.jstage.jst.go.jp/article/tjsass/62/6/62_T-19-6/_pdf) | 2019|
 | [Deep learning for sea-ice classification on synthetic aperture radar (SAR) images in Earth observation](https://www.diva-portal.org/smash/get/diva2:1450605/FULLTEXT01.pdf#page=27.19) | 2019|
+| [Deep semisupervised teacher–student model based on label propagation for sea ice classification](https://ieeexplore.ieee.org/document/9573360)| 2021|
 
 
 
@@ -75,15 +75,15 @@ Sea ice type classification is a crucial task for understanding and predicting A
 | [Sea ice and open water classification of SAR images using a deep learning model](https://ieeexplore.ieee.org/document/9323990)| 2020 | Classification |
 | [SAR Sea-Ice Image Analysis Based on Iterative Region Growing Using Semantics](https://ieeexplore.ieee.org/abstract/document/4378543) | 2007 | Classification |
 | [Classifying sea ice types from SAR images using a U-Net-based deep learning model](https://ieeexplore.ieee.org/document/9554511) | 2021| Segmentation|
-| [Combining the U-Net model and a Multi-textRG algorithm for fine SAR ice-water classification](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1177/) | 2024 | Segmentation|
 | [Development of a dual-attention U-Net model for sea ice and open water classification on SAR images](https://ieeexplore.ieee.org/document/9361068) |2021| Segmentation|
-| [A Hierarchical Multitask U-Net for Automated Sea Ice Mapping from AI4Arctic Sea Ice Challenge Dataset](https://ieeexplore.ieee.org/document/10337385) | 2023 | Segmentation|
-| [Semantic segmentation of Arctic Sea ice in summer from remote sensing satellite images based on BAU-NET](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-16/issue-4/046514/Semantic-segmentation-of-Arctic-Sea-ice-in-summer-from-remote/10.1117/1.JRS.16.046514.short) | 2022| Segmentation|
+| [In-situ sea ice detection using DeepLabv3 semantic segmentation](https://ieeexplore.ieee.org/document/9705801) | 2021| Segmentation|
 | [Arctic sea ice cover data from spaceborne synthetic aperture radar by deep learning](https://essd.copernicus.org/articles/13/2723/2021/) | 2021| Segmentation|
+| [Semantic image segmentation for sea ice parameters recognition using deep convolutional neural networks.](https://www.sciencedirect.com/science/article/pii/S1569843222000875) | 2022| Segmentation|
+| [Semantic segmentation of Arctic Sea ice in summer from remote sensing satellite images based on BAU-NET](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-16/issue-4/046514/Semantic-segmentation-of-Arctic-Sea-ice-in-summer-from-remote/10.1117/1.JRS.16.046514.short) | 2022| Segmentation|
 | [Enhancing sea ice segmentation in Sentinel-1 images with atrous convolutions](https://www.tandfonline.com/doi/full/10.1080/01431161.2023.2248560) | 2023| Segmentation|
 | [Fine extraction of arctic sea ice based on CA-DeepLabV3+ model](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12797/127971P/Fine-extraction-of-arctic-sea-ice-based-on-CA-DeepLabV3/10.1117/12.3007422.short) | 2023| Segmentation|
-| [In-situ sea ice detection using DeepLabv3 semantic segmentation](https://ieeexplore.ieee.org/document/9705801) | 2021| Segmentation|
-| [Semantic image segmentation for sea ice parameters recognition using deep convolutional neural networks.](https://www.sciencedirect.com/science/article/pii/S1569843222000875) | 2022| Segmentation|
+| [A Hierarchical Multitask U-Net for Automated Sea Ice Mapping from AI4Arctic Sea Ice Challenge Dataset](https://ieeexplore.ieee.org/document/10337385) | 2023 | Segmentation|
+| [Combining the U-Net model and a Multi-textRG algorithm for fine SAR ice-water classification](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1177/) | 2024 | Segmentation|
 
 
 ## How to Contribute
