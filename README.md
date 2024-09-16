@@ -31,8 +31,8 @@ Sea ice type classification is a crucial task for understanding and predicting A
 
 | Paper Title | Year |
 |-------------|------|
-| [Title of Paper 1](#) | 2023 |
-| [Title of Paper 2](#) | 2022 |
+| [Weakly Supervised Learning for Pixel-Level Sea Ice Concentration Extraction Using AI4Arctic Sea Ice Challenge Dataset](https://ieeexplore.ieee.org/abstract/document/10335753) | 2023 |
+
 
 ### Supervised Learning (Sea Ice Concentration)
 
