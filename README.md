@@ -11,15 +11,34 @@ This repository is a curated collection of academic papers focused on semi-super
 - [Research Areas](#research-areas)
   - [Semi-Supervised Learning](#semi-supervised-learning)
   - [Supervised Learning](#supervised-learning)
-  - [Patch-Level Classification](#patch-level-classification)
-  - [Pixel-Level Semantic Segmentation](#pixel-level-semantic-segmentation)
+  - [Image Classification (Patch-Level)](#image-classification-patch-level)
+  - [Semantic Segmentation (Pixel-Level)](#semantic-segmentation-pixel-level)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
 
 ## Introduction
 Sea ice type classification is a crucial task for understanding and predicting Arctic and Antarctic ice conditions. This repository aggregates key papers that explore various machine learning techniques, including semi-supervised and supervised learning approaches, to classify sea ice types effectively. The focus is on methodologies that target both patch-level classification and pixel-level semantic segmentation.
 
+## Semi-Supervised Learning
 
+| Paper Title | Year |
+|-------------|------|
+| [Title of Paper 1](#) | 2023 |
+| [Title of Paper 2](#) | 2022 |
+
+## Image Classification (Patch-Level)
+
+| Paper Title | Year |
+|-------------|------|
+| [Title of Paper 5](#) | 2022 |
+| [Title of Paper 6](#) | 2020 |
+
+## Semantic Segmentation (Pixel-Level)
+
+| Paper Title | Year |
+|-------------|------|
+| [Title of Paper 7](#) | 2023 |
+| [Title of Paper 8](#) | 2019 |
 
 ## How to Contribute
 
