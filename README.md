@@ -1,4 +1,4 @@
-# Awesome  Sea Ice Type Classification Papers
+# Awesome  Sea Ice Papers
 
 ## Overview
 This repository is a curated collection of academic papers focused on semi-supervised and supervised learning techniques for sea ice concentration and sea ice type classification. It emphasizes research on methodologies related to both concentration estimation and type classification, including approaches for patch-level image classification and pixel-level semantic segmentation, providing a comprehensive resource for researchers and practitioners in the field.
