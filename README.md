@@ -71,6 +71,7 @@ Sea ice classification is a crucial task for understanding and predicting Arctic
 | [Fine-Scale Sea Ice Segmentation for High-Resolution Satellite Imagery with Weakly-Supervised CNNs](https://www.mdpi.com/2072-4292/13/18/3562) | 2021 | 
 | [EMI-SUPERVISED SEA ICE CLASSIFICATION OF SAR IMAGERY BASED ON GRAPH CONVOLUTIONAL NETWORK](https://ieeexplore-ieee-org.aurarialibrary.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=9883410) | 2022 | 
 | [REGION-LEVEL LABELS IN ICE CHARTS CAN PRO-DUCE PIXEL-LEVEL SEGMENTATION FOR SEA ICE TYPES](https://arxiv.org/pdf/2405.10456) | 2024 |
+| [A Weakly Supervised Learning Approach for Sea Ice Stage of Development Classification from AI4Arctic Sea Ice Challenge Dataset](https://ieeexplore.ieee.org/abstract/document/10891448?casa_token=n8vOovwQ9g0AAAAA:VR3EEpgafMREwSnDqeOVozrLk4bTyT3XpsMg_D3sGt0T4fhsAO0pJzytOaVlBwvv3_MXHaRWH_M) | 2025 |
 
 
 ### Supervised Learning (Sea Ice Type Classification)
