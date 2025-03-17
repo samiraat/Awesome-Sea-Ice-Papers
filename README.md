@@ -27,7 +27,7 @@ Sea ice classification is a crucial task for understanding and predicting Arctic
 
 ![Sea Ice Concentration](imgs/HH_HV_SIC_plot.png)
 
-### Semi-Supervised Learning (Sea Ice Concentration)
+### Semi-Supervised/ Weakly Learning (Sea Ice Concentration)
 
 | Paper Title | Year |
 |-------------|------|
@@ -60,7 +60,7 @@ Sea ice classification is a crucial task for understanding and predicting Arctic
 ## Sea Ice Type Classification
 
 ![Sea Ice Type Classification](imgs/HH_HV_SOD_plot.png)
-### Semi-Supervised Learning (Sea Ice Type Classification)
+### Semi-Supervised/ Weakly Learning (Sea Ice Type Classification)
 
 | Paper Title | Year |
 |-------------|------|
